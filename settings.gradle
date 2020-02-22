@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='17.02.2020_exersize_3.7.1'
